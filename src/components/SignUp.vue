@@ -29,4 +29,13 @@
         margin-right: auto;
         border: 1px solid skyblue;
     }
+
+    .register button{
+        width: 320px;
+        height: 40px;
+        border: 1px solid skyblue;
+        background: skyblue;
+        color: #fff;
+        cursor: pointer;
+        }
 </style>
