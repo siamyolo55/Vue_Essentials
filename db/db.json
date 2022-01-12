@@ -1,21 +1,34 @@
 {
-  "user": [
+  "users": [
     {
       "name": "siam",
-      "email": "abrarsiam801@gmail.com",
-      "password": "abc@123"
+      "email": "siam@gmail.com",
+      "password": "siam@123",
+      "id": 1
     },
     {
-      "id": 1,
-      "name": "siam",
-      "email": "abrarsiam801@gmail.com",
-      "password": "abc@123"
+      "name": "abrar",
+      "email": "abrar@gmail.com",
+      "password": "abrar@123",
+      "id": 2
     },
     {
-      "id": 2,
-      "name": "mew",
-      "email": "mew@gmail.com",
-      "password": "abc@123"
+      "name": "bruce",
+      "email": "wayne@gmail.com",
+      "password": "bruce@123",
+      "id": 3
+    },
+    {
+      "name": "yolo",
+      "email": "yolo@gmail.com",
+      "password": "yolo@123",
+      "id": 4
+    },
+    {
+      "name": "yomama",
+      "email": "yomama@gmail.com",
+      "password": "ym@123",
+      "id": 5
     }
   ]
 }
