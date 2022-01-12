@@ -30,5 +30,31 @@
       "password": "ym@123",
       "id": 5
     }
+  ],
+  "restaurants":[
+    {
+      "id":1,
+      "name": "Burger King",
+      "contact": "1111",
+      "address": "Gulshan"
+    },
+    {
+      "id":2,
+      "name": "Burger Queen",
+      "contact": "2222",
+      "address": "Banani"
+    },
+    {
+      "id":3,
+      "name": "Burger Slave",
+      "contact": "3333",
+      "address": "Mohakhali"
+    },
+    {
+      "id":4,
+      "name": "Burger Prince",
+      "contact": "4444",
+      "address": "Link Road"
+    }
   ]
 }
