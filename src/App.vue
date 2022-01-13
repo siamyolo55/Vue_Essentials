@@ -25,7 +25,7 @@ export default {
   .logo{
         width: 300px
   }
-  .register input , .login input{
+  .register input , .login input, .add input{
       width: 300px;
       height: 40px;
       padding-left: 20px;
@@ -36,7 +36,7 @@ export default {
       border: 1px solid skyblue;
   }
 
-  .register button , .login button{
+  .register button , .login button, .add button{
       width: 320px;
       height: 40px;
       border: 1px solid skyblue;
